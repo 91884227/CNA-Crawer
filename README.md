@@ -5,7 +5,7 @@
 
 ### usage
 ```
-python crawer_for_CNA.py`	
+python crawer_for_CNA.py
 ```
 
 即可產生
